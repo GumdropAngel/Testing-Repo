@@ -1,0 +1,11 @@
+venv/
+env/
+.env
+secrets.json
+.csv
+.parquet
+.json
+data/
+__pycache__/
+*.pyc
+.DS_Store
